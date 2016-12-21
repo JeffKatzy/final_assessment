@@ -1,3 +1,5 @@
+#all of these were pretty tough to remember, i had to use the DBBrowser to test a bunch of queries
+
 class Customer
   include Databaseable::InstanceMethods
   extend Databaseable::ClassMethods
